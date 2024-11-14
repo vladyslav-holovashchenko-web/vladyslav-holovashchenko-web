@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vladyslav Holovashchenko 👋
 
-<!--
-**vladyslav-holovashchenko-web/vladyslav-holovashchenko-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Full Stack JavaScript Developer with experience in React, Node.js, and Next.js. I love building scalable and efficient web applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- JavaScript (ES6+), Typescript, React, Node.js, Next.js
+- Express, Fastify, NestJS, MongoDB, PostgreSQL, MySQL
+- Tailwind CSS, Ant Design, Bootstrap, Material-UI
+- Git, GitHub, GitLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python
+- Django, Flask
+- Docker
+
+## 📫 How to reach me
+- Email: vladyslav.h.dev@gmail.com
+- LinkedIn: [vladyslav-holovashchenko](https://www.linkedin.com/in/vladyslav-holovashchenko/)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
